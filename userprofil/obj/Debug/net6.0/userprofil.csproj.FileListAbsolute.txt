@@ -1,0 +1,15 @@
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\bin\Debug\net6.0\userprofil.exe
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\bin\Debug\net6.0\userprofil.deps.json
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\bin\Debug\net6.0\userprofil.runtimeconfig.json
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\bin\Debug\net6.0\userprofil.dll
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\bin\Debug\net6.0\userprofil.pdb
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\obj\Debug\net6.0\userprofil.csproj.AssemblyReference.cache
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\obj\Debug\net6.0\userprofil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\obj\Debug\net6.0\userprofil.AssemblyInfoInputs.cache
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\obj\Debug\net6.0\userprofil.AssemblyInfo.cs
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\obj\Debug\net6.0\userprofil.csproj.CoreCompileInputs.cache
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\obj\Debug\net6.0\userprofil.dll
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\obj\Debug\net6.0\refint\userprofil.dll
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\obj\Debug\net6.0\userprofil.pdb
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\obj\Debug\net6.0\userprofil.genruntimeconfig.cache
+C:\Users\UserPC\RiderProjects\userprofil\userprofil\obj\Debug\net6.0\ref\userprofil.dll
